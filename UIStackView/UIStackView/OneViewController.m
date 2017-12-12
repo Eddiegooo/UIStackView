@@ -28,6 +28,7 @@
     stackView.axis = UILayoutConstraintAxisHorizontal;
     // subView的内容  具体展示样式基本整个属性决定
     stackView.distribution = UIStackViewDistributionFillEqually;
+
     /**  UIStackViewDistribution
      
      UIStackViewDistributionFill = 0,
