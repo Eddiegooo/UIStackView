@@ -33,7 +33,7 @@
      
      UIStackViewDistributionFill = 0,
      UIStackViewDistributionFillEqually,  //内部控件大小一样
-     UIStackViewDistributionFillProportionally,  和第二个貌似效果一样，间距相等，控件宽度不一定 一大一小。一大一小、、
+     UIStackViewDistributionFillProportionally,  和第一个貌似效果一样，间距相等，控件宽度不一定 一大一小。一大一小、、
      UIStackViewDistributionEqualSpacing,   //各个控件之间的间距相等，自动调整的
      UIStackViewDistributionEqualCentering,  //大小不一样 没啥规律呢 和 1 3 差不多呢。。
      */
